@@ -163,3 +163,4 @@ cython_debug/
 
 # Ignore OpenAI API key file
 config.json
+timescale-ts-40338-credentials.txt
